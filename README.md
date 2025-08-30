@@ -1,2 +1,2 @@
 # Technova-Event-Manager
-This repository contains report for the software Technova Event Manager, by Saumya Suman.
+This repository contains codes and report for the software Technova Event Manager, by Saumya Suman.
